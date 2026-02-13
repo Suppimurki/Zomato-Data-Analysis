@@ -20,7 +20,10 @@ Analyzed Zomato restaurant records using SQL, Excel, and Power BI to generate pe
  
 - Improved data accuracy by 25 percent
    
-- Reduced reporting time through automation
+- Reduced reporting time through automation.
+
+
+
 
 
 
