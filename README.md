@@ -4,13 +4,21 @@ Analyzed Zomato restaurant records using SQL, Excel, and Power BI to generate pe
 Tools Used
 
 Excel
+
 SQL
+
 Power BI
+
 Tableau
+
 
 Key Highlights
 
 Analyzed restaurant data across 15 plus cities
+
 Identified rating and pricing patterns
+
 Improved data accuracy by 25 percent
+
 Reduced reporting time through automation
+
